@@ -1,0 +1,448 @@
+[
+    {
+        "id": "40182",
+        "name": "Tre Xanh",
+        "open": true,
+        "reachable": true,
+        "categories": [
+            "indisch",
+            "doner"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/502580_Tre-Xanh_Logo_8e15990a2c1711e7a07ff8bc1207df82.jpg",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "436",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 1.7,
+            "star1": 107,
+            "star2": 204,
+            "star3": 498,
+            "star4": 251,
+            "star5": 163
+        },
+        "minOrderValue": 8
+    },
+    {
+        "id": "27693",
+        "name": "Taste of India",
+        "open": true,
+        "reachable": true,
+        "categories": [
+            "pizza-pasta",
+            "getrankelieferservice",
+            "indisch"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/bd8f7106ec6c15ed443011f18e8396664f1340f7_200.png",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "920",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 4.4,
+            "star1": 178,
+            "star2": 341,
+            "star3": 414,
+            "star4": 168,
+            "star5": 360
+        },
+        "minOrderValue": 3
+    },
+    {
+        "id": "17919",
+        "name": "Burger Galaxy",
+        "open": true,
+        "reachable": false,
+        "categories": [
+            "amerikanisch",
+            "burger"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/505417_Burger-Galaxy_Logo_cbf6703688c011e7ae7bf8bc12082c80.jpg",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "669",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 4,
+            "star1": 327,
+            "star2": 138,
+            "star3": 173,
+            "star4": 290,
+            "star5": 106
+        },
+        "minOrderValue": 12
+    },
+    {
+        "id": "38010",
+        "name": "Essence of India",
+        "open": true,
+        "reachable": false,
+        "categories": [
+            "sushi"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/fdef539c6ed39f15fb2438c7dfd6ff84b01c23ab_200.png",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "280",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 2.2,
+            "star1": 277,
+            "star2": 71,
+            "star3": 257,
+            "star4": 46,
+            "star5": 142
+        },
+        "minOrderValue": 11
+    },
+    {
+        "id": "30951",
+        "name": "Manjodh",
+        "open": false,
+        "reachable": false,
+        "categories": [
+            "baguette",
+            "indisch"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/502442_Manjodh_Logo_d7b6d306316e11e7845af8bc120836c0.jpg",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "409",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 2.5,
+            "star1": 260,
+            "star2": 354,
+            "star3": 23,
+            "star4": 272,
+            "star5": 446
+        },
+        "minOrderValue": 15
+    },
+    {
+        "id": "16290",
+        "name": "Bayram Grillhaus Halal",
+        "open": true,
+        "reachable": true,
+        "categories": [
+            "schnitzel-steaks"
+        ],
+        "online": false,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/503746_Bayram_logo_74dd2036576211e78551f8bc12082c80.jpg",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "479",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 2.8,
+            "star1": 493,
+            "star2": 230,
+            "star3": 391,
+            "star4": 40,
+            "star5": 166
+        },
+        "minOrderValue": 4
+    },
+    {
+        "id": "13032",
+        "name": "iiu Sushi Asia Food",
+        "open": false,
+        "reachable": true,
+        "categories": [
+            "baguette",
+            "burger"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/117d7509b23ebf9d94ced779b10fda93ebe9ab05_200.png",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "12345",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "144",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 2,
+            "star1": 364,
+            "star2": 101,
+            "star3": 334,
+            "star4": 224,
+            "star5": 390
+        },
+        "minOrderValue": 8
+    },
+    {
+        "id": "5430",
+        "name": "Vapiano - Alexanderplatz",
+        "open": false,
+        "reachable": false,
+        "categories": [
+            "vegetarisch",
+            "burger",
+            "asiatisch"
+        ],
+        "online": true,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/vapianopde_2a8481784c3111e7b1c6f8bc12082c80.jpg",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "12345",
+            "streetName": "Dumy Address",
+            "streetNumber": "14",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "265",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 4.7,
+            "star1": 429,
+            "star2": 351,
+            "star3": 230,
+            "star4": 24,
+            "star5": 474
+        },
+        "minOrderValue": 9
+    },
+    {
+        "id": "25521",
+        "name": "Punjabi Traka",
+        "open": true,
+        "reachable": true,
+        "categories": [
+            "doner",
+            "desserts-snacks,baguette"
+        ],
+        "online": false,
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "white_label_external",
+            "no_option_selected",
+            "kinder_menu",
+            "accepts_cash",
+            "promoted"
+        ],
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/38451_Punjabi-Tadka_Logo_5e38cf50fd0911e6b93bf8bc1207de80.jpg",
+        "address": {
+            "latitude": 52.551553,
+            "longitude": 13.4163927,
+            "zipcode": "FOOBAR",
+            "streetName": "Friedrichstr.",
+            "streetNumber": "9A",
+            "city": "Berlin",
+            "citySlug": "berlin",
+            "state": "",
+            "country": "DE",
+            "etage": "",
+            "door": "",
+            "tags": [],
+            "comments": "551",
+            "company": "",
+            "name": "",
+            "lastname": ""
+        },
+        "rating": {
+            "average": 3.6,
+            "star1": 186,
+            "star2": 472,
+            "star3": 11,
+            "star4": 384,
+            "star5": 114
+        },
+        "minOrderValue": 4
+    }
+]
